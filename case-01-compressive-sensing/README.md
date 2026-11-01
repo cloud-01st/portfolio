@@ -1,6 +1,6 @@
 # 案例 01 · 图像压缩感知重建：从基线复现到超越
 
-> 代码仓库：[`cs-reconstruction`](https://github.com/your-id/cs-reconstruction)（毕设主工程，含训练/评估/演示系统全链路）
+> 代码仓库：[`cs-reconstruction`](https://github.com/YOUR_GITHUB_ID/cs-reconstruction)（毕设主工程，含训练/评估/演示系统全链路）
 >
 > 关键结果：Set11 @ 25% 采样率 **32.47 dB / 0.9346 SSIM**；比复现的深度基线 ReconNet 高 5.08 dB；单图重建 0.05 s。
 
