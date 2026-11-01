@@ -165,7 +165,7 @@ portfolio/
 
 ## 联系
 
-- 邮箱：`YOUR_EMAIL@example.com`
+- 邮箱：`840131913@qq.com`
 - 求职方向：AI 应用 / 算法工程 / 文档智能，实习或校招均可，接受线下面试
 
 <div align="center">
